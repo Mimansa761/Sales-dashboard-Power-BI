@@ -9,10 +9,15 @@ Shipping Mode Performance
 Sales Distribution across US States
 
 **Tools Used**
+
 Power BI
+
 Excel/CSV (Dataset)
 
 **How to Use**
+
 Clone this repository
+
 Open the .pbix file in Power BI Desktop
+
 Explore the dashboard
